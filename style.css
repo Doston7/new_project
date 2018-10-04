@@ -1,0 +1,18 @@
+div {
+	width: 50px;
+	height: 50px;
+	margin-bottom: 10px;
+}
+
+.red {
+	background: yellow;
+
+}
+.ud {
+	background: red;
+
+}
+.iz {
+	background: blue;
+
+}
